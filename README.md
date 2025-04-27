@@ -14,7 +14,7 @@ A Security Automation Toolkit GUI that automates routine security tasks like log
 - Firewall Check: Verifies the firewall configuration to ensure the system is properly protected.
 - Patch Management: Runs a script to check for and apply necessary system patches to keep the system up-to-date.
 - Cross-Platform Compatibility: Should work across platforms like MacOS,Windows, and Linux (may need some adjustments for macOS).
-- Python Scripts Integration: The project integrates Python scripts for each task (malware scan, audit, firewall check, etc.), allowing for seamless automation of security tasks.
+- Python and Bash Scripts Integration: The project integrates Python scripts with Bash scripts for each task (malware scan, audit, firewall check, etc.), allowing for seamless automation of security tasks.
 - Report Generation: Automatically sends generated reports to the system administrator via email.
 
 
