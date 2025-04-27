@@ -27,7 +27,7 @@ git clone https://github.com/shikha1149myprojects/Security-Automation-Toolkit.gi
 # Move into directory
 cd security_automation_toolkit
 
-# Load environment
+# Update and Load your environment
 export $(cat .env | xargs)
 
 # Install Dependencies
