@@ -27,6 +27,9 @@ git clone https://github.com/shikha1149myprojects/Security-Automation-Toolkit.gi
 # Move into directory
 cd security_automation_toolkit
 
+# Load environment
+export $(cat .env | xargs)
+
 # Install Dependencies
 pip3 install pyqt5  
 
