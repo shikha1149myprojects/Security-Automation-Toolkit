@@ -24,6 +24,9 @@ A Security Automation Toolkit GUI that automates routine security tasks like log
 # Clone Repository
 git clone https://github.com/shikha1149myprojects/Security-Automation-Toolkit.git
 
+# Move into directory
+cd security_automation_toolkit
+
 # Install Dependencies
 pip3 install pyqt5  
 
