@@ -27,9 +27,6 @@ git clone https://github.com/shikha1149myprojects/Security-Automation-Toolkit.gi
 # Move into directory
 cd security_automation_toolkit
 
-# Update Directory for Malware Scan
-BASE_DIR="<Directory of your choice>"
-
 # Update and Load your environment
 export $(cat .env | xargs)
 
