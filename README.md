@@ -13,9 +13,20 @@ A Security Automation Toolkit GUI that automates routine security tasks like log
 - Privilege Audit: Runs a script to check and audit user privileges, ensuring proper access control in the system.
 - Firewall Check: Verifies the firewall configuration to ensure the system is properly protected.
 - Patch Management: Runs a script to check for and apply necessary system patches to keep the system up-to-date.
-- Report Generation: Automatically sends generated reports to the system administrator via email.
-- Cross-Platform Compatibility: Should work across platforms like macOS,Windows, and Linux (may need some adjustments for macOS).
+- Cross-Platform Compatibility: Should work across platforms like MacOS,Windows, and Linux (may need some adjustments for macOS).
 - Python Scripts Integration: The project integrates Python scripts for each task (malware scan, audit, firewall check, etc.), allowing for seamless automation of security tasks.
+- Report Generation: Automatically sends generated reports to the system administrator via email.
 
 
 ## Installation
+
+```
+# Clone Repository
+git clone https://github.com/shikha1149myprojects/Security-Automation-Toolkit.git
+
+# Install Dependencies
+pip3 install pyqt5  
+
+# Run toolkit
+python3 security_toolkit_gui.py
+```
