@@ -1,0 +1,24 @@
+[*] Detecting system firewall rules...
+-----------------------------------
+[*] macOS detected...
+=== Packet Filter (pf) Status ===
+scrub-anchor "com.apple/*" all fragment reassemble
+anchor "com.apple/*" all
+
+=== macOS Application Firewall ===
+Firewall is disabled. (State = 0)
+Total number of apps = 7 
+1 : /usr/libexec/remoted 
+             (Allow incoming connections)
+2 : /usr/bin/python3 
+             (Allow incoming connections)
+3 : /usr/bin/ruby 
+             (Allow incoming connections)
+4 : /usr/sbin/cupsd 
+             (Allow incoming connections)
+5 : /usr/libexec/sharingd 
+             (Allow incoming connections)
+6 : /usr/libexec/sshd-keygen-wrapper 
+             (Allow incoming connections)
+7 : /usr/sbin/smbd 
+             (Allow incoming connections)

@@ -1,0 +1,22 @@
+== Sudo Users ==
+
+===== Privilege Audit =====
+== Admin Users (macOS) ==
+GroupMembership: root shikhamehta
+
+== SUID Binaries ==
+Error retrieving SUID binaries.
+
+===== Privilege Audit =====
+== Admin Users (macOS) ==
+GroupMembership: root shikhamehta
+
+== SUID Binaries ==
+Error retrieving SUID binaries.
+
+===== Privilege Audit =====
+== Admin Users (macOS) ==
+GroupMembership: root shikhamehta
+
+== SUID Binaries ==
+Error retrieving SUID binaries.
