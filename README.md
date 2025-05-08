@@ -2,7 +2,11 @@
 
 A Security Automation Toolkit GUI that automates routine security tasks like log parsing, patch checks, and privilege audits for different operating systems
 
-<img width="500" height="400" alt="Screenshot 2025-04-26 at 8 18 08 PM" src="https://github.com/user-attachments/assets/70a06f1e-a2b8-48fa-b071-401c3e7be021" />
+
+<div align="center">
+  <img width="500" height="400" alt="Screenshot 2025-04-26 at 8 18 08 PM" src="https://github.com/user-attachments/assets/70a06f1e-a2b8-48fa-b071-401c3e7be021" />
+</div>
+
 
 
 ## Features
